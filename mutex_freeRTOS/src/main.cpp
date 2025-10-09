@@ -50,9 +50,6 @@ void setup() {
                           NULL,
                           app_cpu);
 
-
-
- 
 }
 
 void loop() {
